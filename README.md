@@ -1,0 +1,1 @@
+The Node.js To-Do List Website is a web application designed to help users organize and manage their tasks effectively. This project utilizes the Node.js runtime environment, along with other technologies such as Express.js for the backend, MongoDB as the database, and HTML/CSS/JavaScript for the frontend.
